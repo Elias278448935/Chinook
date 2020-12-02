@@ -1,0 +1,27 @@
+C:\Users\renel\OneDrive\Desktop\C#\Chinook\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.deps.json
+C:\Users\renel\OneDrive\Desktop\C#\Chinook\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.dll
+C:\Users\renel\OneDrive\Desktop\C#\Chinook\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.pdb
+C:\Users\renel\OneDrive\Desktop\C#\Chinook\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.csprojAssemblyReference.cache
+C:\Users\renel\OneDrive\Desktop\C#\Chinook\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.AssemblyInfoInputs.cache
+C:\Users\renel\OneDrive\Desktop\C#\Chinook\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.AssemblyInfo.cs
+C:\Users\renel\OneDrive\Desktop\C#\Chinook\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.csproj.CoreCompileInputs.cache
+C:\Users\renel\OneDrive\Desktop\C#\Chinook\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.dll
+C:\Users\renel\OneDrive\Desktop\C#\Chinook\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.pdb
+C:\Users\Rene\Desktop\C#\Chinook\Chinook\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.deps.json
+C:\Users\Rene\Desktop\C#\Chinook\Chinook\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.dll
+C:\Users\Rene\Desktop\C#\Chinook\Chinook\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.pdb
+C:\Users\Rene\Desktop\C#\Chinook\Chinook\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.csprojAssemblyReference.cache
+C:\Users\Rene\Desktop\C#\Chinook\Chinook\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.csproj.CoreCompileInputs.cache
+C:\Users\Rene\Desktop\C#\Chinook\Chinook\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.AssemblyInfoInputs.cache
+C:\Users\Rene\Desktop\C#\Chinook\Chinook\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.AssemblyInfo.cs
+C:\Users\Rene\Desktop\C#\Chinook\Chinook\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.dll
+C:\Users\Rene\Desktop\C#\Chinook\Chinook\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.pdb
+C:\Users\User\Downloads\Chinook (1)\Chinook\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.deps.json
+C:\Users\User\Downloads\Chinook (1)\Chinook\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.dll
+C:\Users\User\Downloads\Chinook (1)\Chinook\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.pdb
+C:\Users\User\Downloads\Chinook (1)\Chinook\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Chinook (1)\Chinook\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Chinook (1)\Chinook\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.AssemblyInfo.cs
+C:\Users\User\Downloads\Chinook (1)\Chinook\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Chinook (1)\Chinook\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.dll
+C:\Users\User\Downloads\Chinook (1)\Chinook\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.pdb
