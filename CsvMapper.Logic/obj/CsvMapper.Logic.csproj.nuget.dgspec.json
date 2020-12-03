@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CsvMapper.Logic\\CsvMapper.Logic.csproj": {}
+    "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CsvMapper.Logic\\CsvMapper.Logic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CsvMapper.Logic\\CsvMapper.Logic.csproj": {
+    "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CsvMapper.Logic\\CsvMapper.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CsvMapper.Logic\\CsvMapper.Logic.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CsvMapper.Logic\\CsvMapper.Logic.csproj",
         "projectName": "CsvMapper.Logic",
-        "projectPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CsvMapper.Logic\\CsvMapper.Logic.csproj",
+        "projectPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CsvMapper.Logic\\CsvMapper.Logic.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CsvMapper.Logic\\obj\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CsvMapper.Logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

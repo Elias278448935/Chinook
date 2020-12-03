@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CommonBase\\CommonBase.csproj": {}
+    "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CommonBase\\CommonBase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CommonBase\\CommonBase.csproj": {
+    "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CommonBase\\CommonBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CommonBase\\CommonBase.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CommonBase\\CommonBase.csproj",
         "projectName": "CommonBase",
-        "projectPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CommonBase\\CommonBase.csproj",
+        "projectPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CommonBase\\CommonBase.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CommonBase\\obj\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CommonBase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

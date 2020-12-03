@@ -16,12 +16,3 @@ C:\Users\Rene\Desktop\C#\Chinook\Chinook\CsvMapper.Logic\obj\Debug\netstandard2.
 C:\Users\Rene\Desktop\C#\Chinook\Chinook\CsvMapper.Logic\obj\Debug\netstandard2.0\CsvMapper.Logic.AssemblyInfo.cs
 C:\Users\Rene\Desktop\C#\Chinook\Chinook\CsvMapper.Logic\obj\Debug\netstandard2.0\CsvMapper.Logic.dll
 C:\Users\Rene\Desktop\C#\Chinook\Chinook\CsvMapper.Logic\obj\Debug\netstandard2.0\CsvMapper.Logic.pdb
-C:\Users\User\Downloads\Chinook (1)\Chinook\CsvMapper.Logic\bin\Debug\netstandard2.0\CsvMapper.Logic.deps.json
-C:\Users\User\Downloads\Chinook (1)\Chinook\CsvMapper.Logic\bin\Debug\netstandard2.0\CsvMapper.Logic.dll
-C:\Users\User\Downloads\Chinook (1)\Chinook\CsvMapper.Logic\bin\Debug\netstandard2.0\CsvMapper.Logic.pdb
-C:\Users\User\Downloads\Chinook (1)\Chinook\CsvMapper.Logic\obj\Debug\netstandard2.0\CsvMapper.Logic.csprojAssemblyReference.cache
-C:\Users\User\Downloads\Chinook (1)\Chinook\CsvMapper.Logic\obj\Debug\netstandard2.0\CsvMapper.Logic.AssemblyInfoInputs.cache
-C:\Users\User\Downloads\Chinook (1)\Chinook\CsvMapper.Logic\obj\Debug\netstandard2.0\CsvMapper.Logic.AssemblyInfo.cs
-C:\Users\User\Downloads\Chinook (1)\Chinook\CsvMapper.Logic\obj\Debug\netstandard2.0\CsvMapper.Logic.csproj.CoreCompileInputs.cache
-C:\Users\User\Downloads\Chinook (1)\Chinook\CsvMapper.Logic\obj\Debug\netstandard2.0\CsvMapper.Logic.dll
-C:\Users\User\Downloads\Chinook (1)\Chinook\CsvMapper.Logic\obj\Debug\netstandard2.0\CsvMapper.Logic.pdb
