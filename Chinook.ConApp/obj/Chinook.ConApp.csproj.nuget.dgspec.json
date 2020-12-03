@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.ConApp\\Chinook.ConApp.csproj": {}
+    "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.ConApp\\Chinook.ConApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.ConApp\\Chinook.ConApp.csproj": {
+    "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.ConApp\\Chinook.ConApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.ConApp\\Chinook.ConApp.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.ConApp\\Chinook.ConApp.csproj",
         "projectName": "Chinook.ConApp",
-        "projectPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.ConApp\\Chinook.ConApp.csproj",
+        "projectPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.ConApp\\Chinook.ConApp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.ConApp\\obj\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.ConApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,14 +27,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Logic\\Chinook.Logic.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Logic\\Chinook.Logic.csproj"
+              "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Logic\\Chinook.Logic.csproj": {
+                "projectPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Logic\\Chinook.Logic.csproj"
               },
-              "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Report\\Chinook.Report.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Report\\Chinook.Report.csproj"
+              "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Report\\Chinook.Report.csproj": {
+                "projectPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Report\\Chinook.Report.csproj"
               },
-              "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CommonBase\\CommonBase.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CommonBase\\CommonBase.csproj"
+              "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CommonBase\\CommonBase.csproj": {
+                "projectPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CommonBase\\CommonBase.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Contracts\\Chinook.Contracts.csproj": {
+    "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Contracts\\Chinook.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Contracts\\Chinook.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Contracts\\Chinook.Contracts.csproj",
         "projectName": "Chinook.Contracts",
-        "projectPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Contracts\\Chinook.Contracts.csproj",
+        "projectPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Contracts\\Chinook.Contracts.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CommonBase\\CommonBase.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CommonBase\\CommonBase.csproj"
+              "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CommonBase\\CommonBase.csproj": {
+                "projectPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CommonBase\\CommonBase.csproj"
               }
             }
           }
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Logic\\Chinook.Logic.csproj": {
+    "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Logic\\Chinook.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Logic\\Chinook.Logic.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Logic\\Chinook.Logic.csproj",
         "projectName": "Chinook.Logic",
-        "projectPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Logic\\Chinook.Logic.csproj",
+        "projectPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Logic\\Chinook.Logic.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Logic\\obj\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -145,11 +145,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Contracts\\Chinook.Contracts.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Contracts\\Chinook.Contracts.csproj"
+              "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Contracts\\Chinook.Contracts.csproj": {
+                "projectPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Contracts\\Chinook.Contracts.csproj"
               },
-              "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CsvMapper.Logic\\CsvMapper.Logic.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CsvMapper.Logic\\CsvMapper.Logic.csproj"
+              "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CsvMapper.Logic\\CsvMapper.Logic.csproj": {
+                "projectPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CsvMapper.Logic\\CsvMapper.Logic.csproj"
               }
             }
           }
@@ -181,14 +181,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Report\\Chinook.Report.csproj": {
+    "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Report\\Chinook.Report.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Report\\Chinook.Report.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Report\\Chinook.Report.csproj",
         "projectName": "Chinook.Report",
-        "projectPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Report\\Chinook.Report.csproj",
+        "projectPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Report\\Chinook.Report.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Report\\obj\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Report\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -204,14 +204,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Contracts\\Chinook.Contracts.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Contracts\\Chinook.Contracts.csproj"
+              "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Contracts\\Chinook.Contracts.csproj": {
+                "projectPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Contracts\\Chinook.Contracts.csproj"
               },
-              "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Logic\\Chinook.Logic.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\Chinook.Logic\\Chinook.Logic.csproj"
+              "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Logic\\Chinook.Logic.csproj": {
+                "projectPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\Chinook.Logic\\Chinook.Logic.csproj"
               },
-              "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CommonBase\\CommonBase.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CommonBase\\CommonBase.csproj"
+              "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CommonBase\\CommonBase.csproj": {
+                "projectPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CommonBase\\CommonBase.csproj"
               }
             }
           }
@@ -243,14 +243,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CommonBase\\CommonBase.csproj": {
+    "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CommonBase\\CommonBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CommonBase\\CommonBase.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CommonBase\\CommonBase.csproj",
         "projectName": "CommonBase",
-        "projectPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CommonBase\\CommonBase.csproj",
+        "projectPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CommonBase\\CommonBase.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CommonBase\\obj\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CommonBase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -295,14 +295,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CsvMapper.Logic\\CsvMapper.Logic.csproj": {
+    "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CsvMapper.Logic\\CsvMapper.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CsvMapper.Logic\\CsvMapper.Logic.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CsvMapper.Logic\\CsvMapper.Logic.csproj",
         "projectName": "CsvMapper.Logic",
-        "projectPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CsvMapper.Logic\\CsvMapper.Logic.csproj",
+        "projectPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CsvMapper.Logic\\CsvMapper.Logic.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\Chinook (1)\\Chinook\\CsvMapper.Logic\\obj\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\Chinook (2)\\Chinook\\Chinook\\CsvMapper.Logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
