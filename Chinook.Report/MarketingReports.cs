@@ -4,6 +4,7 @@ using System.Text;
 using System.Linq;
 using Chinook.Report.Marketing.Models;
 using Chinook.Contracts.Report.Marketing;
+using System.Security.Cryptography.X509Certificates;
 
 namespace Chinook.Report
 {
@@ -16,7 +17,13 @@ namespace Chinook.Report
 			var genres = Logic.Factory.GetAllGenres();
 
 			// Abfrage 
-			var result = default(IEnumerable<Contracts.Report.Marketing.IArtistStatistic>);
+			var result = from ar in artists
+						 join al in albums on ar.Id equals al.ArtistId
+						 group al by new { ar.Id } into g
+						 select new ArtistStatistic
+						 { 
+							 AlbumCount = g.Count()
+                         };
 
 			return result;
 		}
@@ -57,6 +64,29 @@ namespace Chinook.Report
 
 			return albumStatistic;
 
+		}
+
+
+		public static ICustomerSaleStatistic GetCustomerSaleStatistics()
+		{
+			var invoices = Logic.Factory.GetAllInvoices();
+			var costumers = Logic.Factory.GetAllCustomers();
+
+			var customerSaleStatistic = new CustomerSaleStatistic();
+
+			var item = (from i in invoices
+						join c in costumers on i.Id equals c.Id
+						group i by c.LastName)
+						  .Select(j => (j.Key, j.Sum(a => a.Total)))
+						  .OrderBy(a => a.Item2);
+
+			customerSaleStatistic.maxName = item.Last().Key;
+			customerSaleStatistic.maxNumber = item.Last().Item2.ToString();
+			customerSaleStatistic.minName = item.First().Key;
+			customerSaleStatistic.minNumber = item.First().Item2.ToString();
+			customerSaleStatistic.avgNumber = item.Average(k => k.Item2).ToString();
+
+			return customerSaleStatistic;
 		}
 	}
 }
